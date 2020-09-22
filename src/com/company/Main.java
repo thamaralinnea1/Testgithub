@@ -6,5 +6,9 @@ public class Main {
 
 //Dette er en test
 //En ny kommentar
+        System.out.println("Hej med jer");
+        System.out.println("hvadså");
+        System.out.println("Hvordan går det");
+
     }
 }
