@@ -10,6 +10,7 @@ public class Main {
         System.out.println("hvadså");
         System.out.println("Hvordan går det");
         System.out.println("hvad skal du i dag");
+        System.out.println("Hej med jer");
 
     }
 }
