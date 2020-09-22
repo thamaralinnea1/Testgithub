@@ -6,6 +6,7 @@ public class Main {
 
 //Dette er en test
         System.out.println("Hej med jer");
+        System.out.println("hvadså");
 
 
     }
