@@ -13,7 +13,7 @@ public class Main {
         System.out.println("jeg går tidligt hjemme idag folken");
 
 
-
+        System.out.println("Hej med jer");
 
     }
 }
