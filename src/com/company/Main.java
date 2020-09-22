@@ -9,8 +9,14 @@ public class Main {
         System.out.println("Hej med jer");
         System.out.println("hvadså");
         System.out.println("Hvordan går det");
-        System.out.println("hvad skal du i dag";
+        System.out.println("hvad skal du i dag");
+        System.out.println("jeg går tidligt hjemme idag folken");
+
+
 
 
     }
 }
+// Kommentar
+   System.out.println("Hej Najib");
+   System.out.println("Jeg skal gå tidligt idag");
